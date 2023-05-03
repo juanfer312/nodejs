@@ -1,0 +1,5 @@
+.enlaces a {margin-right:30px; text-decoration: none; color:whitesmoke}
+.enlaces a hover{text-decoration: underline; text-transform: uppercase;}
+.headcontainer{background-color: grey;}
+.ventajas{text-align: center;}
+footer{text-align: center;font-size: small;}
